@@ -16,6 +16,13 @@
 - 后端采用SpringBoot+JPA++Swagger2+JWT校验,根据不同用户的权限返回给用户不同的数据
 - 前端采用Vue+AntDesign,组件化拆分，封装了很多年公共组件，方便维护和二次开发
 
+### 对应版本
+
+- MySQL 5.7
+- vue 2
+- node v10+
+- npm 6.9+
+
 ### 系统截图
 
 ![image](https://github.com/gpcpp/exam/assets/104951045/f0fb1260-e60e-4628-b6aa-d156a6b79f0a)
